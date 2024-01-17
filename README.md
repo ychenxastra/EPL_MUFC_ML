@@ -1,4 +1,4 @@
-# Analyses of EPL &amp; MUFC and Predicting Using Machine Learning
+# Analyses of Football Matches and Predicting Results Using Machine Learning
 This is a Jupyter Notebook (Python 3) for analyzing data of English Premier League (EPL) and Manchester United Football Club (MUFC or Man United) from Season 2000-2001 to 2022-2023. 
 
 ## Sections
