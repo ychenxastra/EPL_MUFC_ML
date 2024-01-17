@@ -15,6 +15,7 @@ This is a Jupyter Notebook (Python 3) for analyzing data of English Premier Leag
 - Data: [Alvin @ Kaggle](https://www.kaggle.com/datasets/irkaal/english-premier-league-results)
 - References:
   - [Icaro @ Medium](https://medium.com/analytics-vidhya/creating-an-ml-model-for-predicting-english-premiership-results-or-using-machine-learning-to-875b369c1b48): Creating an ML model for predicting English Premiership results (or using Machine Learning to figure out if Arsenal will return to the Champions League in 2020–2021)
+  - [Dataquest @ Youtube](https://www.youtube.com/watch?v=0irmDBWLrco): Predict Football Match Winners With Machine Learning And Python
   - [Arman Tadjrishi @ GitHub](https://armantee.github.io/predicting/): Predicting Premier League match results based on historic data
  
 ## Notes
