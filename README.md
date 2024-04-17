@@ -6,8 +6,8 @@ This is a Jupyter Notebook (Python 3) for analyzing data of English Premier Leag
 - Preprocessing data: handling the original data list (missing values, NaNs, incorrect records, dropping data, etc.)
 - Visualize data: dataframe at a glance (statistical values, team performances, etc.)
 - Processing data: preparing data for machine learning
-- Train using different models: Naive Bayes (NB), Support Vector Machine (SVM), AdaBoost, K-Nearest Neighbors (KNN), Decision Tree, and Random Forest
-- Can we improve accuracy: adopting rolling average, feature selection, and principle component analysis (PCA)
+- Train using different models: Random Forest, XGBBoost, and K-Nearest Neighbors (KNN) 
+- Can we improve accuracy: adopting 5-fold 5-fold cross-validation and GridSearchCV, rolling average, feature selection, and principle component analysis (PCA)
 - Prediction for Man United: similiar procedure for MUFC data
 - Summary and Discussion: including my own thoughts and future works
 
